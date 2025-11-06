@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+nav {
+
+    padding: 32px 32px;
+    min-height: 80px;
+    background-color: blueviolet;
+
+}
+
+nav img {
+max-height: 48px;
+background-color: white;
+}
+
+nav ul {
+    list-style: none;
+    display: inline-block;
+}
+
+nav ul li {
+display: inline-block;
+margin-right: 20px;
+margin-bottom: 20px;
+vertical-align: bottom;
+
+}
+
+nav ul li a {
+text-decoration: none;
+
+}
+
+nav ul li:last-child {
+    margin-right: 0px;
+}
+
+
+nav ul li a:link,
+nav ul li a:visited {
+color: white;
+
+}
+
+nav ul li a:hover {
+    color: orange;
+
+}
+
+ .spacer { 
+   /* border: 1px solid yellow; */
+    display: inline-block;
+    /* parent width - logo width - Menu <ul> with */
+    width: calc(100% - 40px - 295px);
+
+}
+
+nav ul ui:current {
+    color:aquamarine
+    font-wei
+
+}
+
+}
+
