@@ -1,1 +1,1 @@
-# basic-navigation-example--example-2025-11
+Example of basic website navigation.
